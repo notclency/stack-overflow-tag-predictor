@@ -7,7 +7,7 @@
 
 A hybrid deep learning model that predicts the programming language tag for a given Stack Overflow question title. The model combines **Bi-LSTMs** (for semantic context), **Character-level CNNs** (for handling typos and unknown words), and an **Attention Mechanism** (to focus on key technical terms).
 
-**[🌐 View Live Inference Demo](https://clencytabe.vercel.app/projects/nlp-tag-predictor)**
+**[🌐 View Live Inference Demo](https://clencytabe.com/projects/nlp-classification)**
 
 ---
 
